@@ -1,0 +1,10 @@
+/node_modules/**
+/dist/
+/dist*
+/public/*
+/docs/*
+/src/types/env.d.ts
+/docs/**/*
+/plop/**/*
+CHANGELOG
+/vite.config.ts
